@@ -8,7 +8,7 @@
 |---|-----------|--------|--------|
 | 1 | Personalised Greeting | `challenge/01-greeting` | ✅ Done |
 | 2 | Age Calculator | `challenge/02-age-calculator` | ✅ Done |
-| 3 | Temperature Converter | `challenge/03-temperature-converter` | ⏳ Pending |
+| 3 | Temperature Converter | `challenge/03-temperature-converter` | ✅ Done |
 | 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ⏳ Pending |
 | 5 | Profile Card | `challenge/05-profile-card` | ⏳ Pending |
 
@@ -32,3 +32,15 @@
 
 **Output:**
 ![hallenge 2 Output](screenshots/challenge_02_age_calculator-screenshot.png)
+
+
+### Challenge 3 — Build temperature converter
+
+**Concepts:** `input()`, f-strings, parse string value in float()
+
+**Solution file:** `challenge_03_temperature_converter.py`
+
+**Output:**
+![hallenge 2 Output](screenshots/challenge_03_temperature_converter_screenshot.png)
+
+
