@@ -8,7 +8,7 @@
 |---|-----------|--------|--------|
 | 1 | Personalised Greeting | `challenge/01-greeting` | ✅ Done |
 | 2 | Age Calculator | `challenge/02-age-calculator` | ✅ Done |
-| 3 | Temperature Converter | `challenge/03-temperature-converter` | ⏳ Pending |
+| 3 | Temperature Converter | `challenge/03-temperature-converter` | ✅ Done |
 | 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ⏳ Pending |
 | 5 | Profile Card | `challenge/05-profile-card` | ⏳ Pending |
 
