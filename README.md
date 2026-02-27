@@ -22,3 +22,13 @@
 
 **Output:**
 ![Challenge 1 Output](screenshots/challenge_01_greetings-screenshot.png)
+
+
+### Challenge 2 — Build age calculator
+
+**Concepts:** `input()`, f-strings, parse string value in int()
+
+**Solution file:** `challenge_02_age_calculator.py`
+
+**Output:**
+![Challenge 2 Output](screenshots/challenge_02_age_calculator-screenshot.png)
