@@ -7,7 +7,7 @@
 | # | Challenge | Branch | Status |
 |---|-----------|--------|--------|
 | 1 | Personalised Greeting | `challenge/01-greeting` | ✅ Done |
-| 2 | Age Calculator | `challenge/02-age-calculator` | ⏳ Pending |
+| 2 | Age Calculator | `challenge/02-age-calculator` | ✅ Done |
 | 3 | Temperature Converter | `challenge/03-temperature-converter` | ⏳ Pending |
 | 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ⏳ Pending |
 | 5 | Profile Card | `challenge/05-profile-card` | ⏳ Pending |
@@ -22,3 +22,13 @@
 
 **Output:**
 ![Challenge 1 Output](screenshots/challenge_01_greetings-screenshot.png)
+
+
+### Challenge 2 — Build age calculator
+
+**Concepts:** `input()`, f-strings, parse string value in int()
+
+**Solution file:** `challenge_02_age_calculator.py`
+
+**Output:**
+![hallenge 2 Output](screenshots/challenge_02_age_calculator-screenshot.png)
