@@ -31,4 +31,4 @@
 **Solution file:** `challenge_02_age_calculator.py`
 
 **Output:**
-![Challenge 2 Output](screenshots/challenge_02_age_calculator-screenshot.png)
+![hallenge 2 Output](screenshots/challenge_02_age_calculator-screenshot.png)
