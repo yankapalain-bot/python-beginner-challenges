@@ -32,3 +32,15 @@
 
 **Output:**
 ![hallenge 2 Output](screenshots/challenge_02_age_calculator-screenshot.png)
+
+
+### Challenge 3 — Build temperature converter
+
+**Concepts:** `input()`, f-strings, parse string value in float()
+
+**Solution file:** `challenge_03_temperature_converter.py`
+
+**Output:**
+![hallenge 2 Output](screenshots/challenge_03_temperature_converter_screenshot.png)
+
+
