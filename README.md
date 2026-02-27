@@ -54,3 +54,14 @@
 **Output:**
 ![Challenge 4 Output](screenshots/challenge_04_output.png)
 
+
+
+### Challenge 4 — Build Profile Card
+
+**Concepts:** input(), int(), float(), str(), f-strings, multiple data types together
+
+**Solution file:** `challenge_05_profile_card.py`
+
+**Output:**
+![Challenge 5 Output](screenshots/challenge_05_output.png.png)
+
