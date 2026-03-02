@@ -63,5 +63,5 @@
 **Solution file:** `challenge_05_profile_card.py`
 
 **Output:**
-![Challenge 5 Output](screenshots/challenge_05_output.png.png)
+![Challenge 5 Output](screenshots/challenge_05_output.png)
 
